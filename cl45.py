@@ -13,6 +13,12 @@ NORMAL_JSON = "normal2.json"
 FINAL_JSON = "vip2.json"
 
 LINKS_PATH = [
+    
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah55.json",
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah15.json",
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah25.json",
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah35.json",
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah45.json",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah.json",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah10.json",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah20.json",
