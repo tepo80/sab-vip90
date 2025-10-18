@@ -2,7 +2,7 @@ cl2-job:
   runs-on: ubuntu-latest
   timeout-minutes: 5
   schedule:
-    - cron: "0 */3 * * *"  # هر ۳ ساعت
+    - cron: "0 */2 * * *"  # هر ۳ ساعت
   steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
