@@ -14,6 +14,10 @@ TEXT_NORMAL = "normal.txt"
 TEXT_FINAL = "vip.txt"
 
 LINKS_PATH = [
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/ss.txt",
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/trojan.txt",
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/vless.txt",
+    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/h2.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah10.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah20.txt",
