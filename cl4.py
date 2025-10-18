@@ -9,8 +9,8 @@ import socket
 import urllib.request
 from typing import List, Dict
 
-NORMAL_JSON = "test2.json"
-FINAL_JSON = "almasi2.json"
+NORMAL_JSON = "normal2.json"
+FINAL_JSON = "vip2.json"
 
 LINKS_PATH = [
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/shah.json",
@@ -97,8 +97,8 @@ def save_json_files(normal_list: List[Dict], final_list: List[Dict]):
         json.dump(final_list, f, ensure_ascii=False, indent=4)
 
     print(f"[ℹ️] Normal2 configs: {len(normal_list)} saved to {NORMAL_JSON}")
-    print(f"[ℹ️] Final2 configs (after TCP test): {len(final_list)} saved to {FINAL_JSON}")
-    print(f"[✅] Update complete. test2.json and almasi2.json are ready.")
+    print(f"[ℹ️] vip2 configs (after TCP test): {len(final_list)} saved to {FINAL_JSON}")
+    print(f"[✅] Update complete. normal2.json and vip2.json are ready.")
 
 def update_subs():
     all_configs = []
