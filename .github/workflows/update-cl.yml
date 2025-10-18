@@ -3,7 +3,7 @@ name: Sub Checker cl-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"   # اجرای cl.py هر ۲ ساعت یک‌بار
+    - cron: "0 */1 * * *"   # اجرای cl.py هر ۲ ساعت یک‌بار
 
 permissions:
   contents: write
