@@ -14,6 +14,8 @@ TEXT_NORMAL = "normal.txt"
 TEXT_FINAL = "vip.txt"
 
 LINKS_PATH = [
+    "https://almasi-9025.batool-sogeli.workers.dev/arista"
+    "https://zaya.link/Arista_HP_Final"
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/ss.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/trojan.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/vless.txt",
