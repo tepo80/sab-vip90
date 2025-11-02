@@ -14,8 +14,15 @@ TEXT_NORMAL = "normal.txt"
 TEXT_FINAL = "vip.txt"
 
 LINKS_PATH = [
-    "https://almasi-9025.batool-sogeli.workers.dev/arista"
-    "https://zaya.link/Arista_HP_Final"
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/tuic.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/trojan.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ssr.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ss.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vmess.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vless.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt",
+    "https://almasi-9025.batool-sogeli.workers.dev/arista",
+    "https://zaya.link/Arista_HP_Final",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/ss.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/trojan.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/vless.txt",
