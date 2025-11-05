@@ -14,6 +14,14 @@ TEXT_NORMAL = "normal2.txt"
 TEXT_FINAL = "vip2.txt"
 
 LINKS_PATH = [
+    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/hy2.html",
+    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/main/Sub.mahsa.xsparvin",
+    "https://raw.githubusercontent.com/parvinxs/Fssociety/main/Fssociety.sub",
+    "https://raw.githubusercontent.com/parvinxs/Fssociety/main/Fssociety.sub",
+    "https://raw.githubusercontent.com/hamedp-71/meli-new/main/hp.json",
+    "https://zaya.link/V2GO_everyday",
+    "https://zaya.link/Arista_HP_Final#xsfilternet",
+    "https://raw.githubusercontent.com/parvinxs/Fssociety/main/Fssociety.sub",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/h2.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/trojan.txt",
     "https://raw.githubusercontent.com/tepo80/sab-vip90/main/vless.txt",
