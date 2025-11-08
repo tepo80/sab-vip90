@@ -14,6 +14,8 @@ TEXT_NORMAL = "normal.txt"
 TEXT_FINAL = "vip.txt"
 
 LINKS_PATH = [
+    "https://almasi-1990.almasi-ali98.workers.dev/522e8484-53de-41a1-a5ba-92e2ec3b7b26/ty",
+    "https://chine-panel.ahsan-tepo98.workers.dev/c808ce19-f298-4087-9bf1-27a5649fc307/sub",
     "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/tuic.txt",
     "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/trojan.txt",
     "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ssr.txt",
