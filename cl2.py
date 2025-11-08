@@ -14,6 +14,7 @@ TEXT_NORMAL = "normal2.txt"
 TEXT_FINAL = "vip2.txt"
 
 LINKS_PATH = [
+    "https://almasi-1990.almasi-ali98.workers.dev/522e8484-53de-41a1-a5ba-92e2ec3b7b26/ty"
     "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/hy2.html",
     "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/main/Sub.mahsa.xsparvin",
     "https://raw.githubusercontent.com/parvinxs/Fssociety/main/Fssociety.sub",
